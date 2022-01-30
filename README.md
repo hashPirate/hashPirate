@@ -7,8 +7,8 @@
 </a>
 
 - :school: I'm currently studying computer science in the USA!
-- :speech_balloon: &nbsp;I like to talk about **Java** and **Python**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help**
+- :speech_balloon: &nbsp;I like to talk about **Java** and **Python**.
+- :mailbox: &nbsp;Ask me about anything, I am happy to **help**.
 <img src="https://komarev.com/ghpvc/?username=hashpirate&color=brightgreen">
 
 [![hashPirate's github activity graph](https://activity-graph.herokuapp.com/graph?username=hashPirate&theme=react-dark)](https://github.com/hashPirate)
