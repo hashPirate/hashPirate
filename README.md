@@ -7,7 +7,7 @@
 </a>
 
 - :school: I'm currently studying computer science in the USA!
-- :speech_balloon: &nbsp;I like to talk about **Java** and **Python**.
+- :speech_balloon: &nbsp;I like to talk about **Java**, **Python**, **JavaScript** and **C**.
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**.
 <img src="https://komarev.com/ghpvc/?username=hashpirate&color=brightgreen">
 
