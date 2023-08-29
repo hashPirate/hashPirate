@@ -11,4 +11,4 @@
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**.
 <img src="https://komarev.com/ghpvc/?username=hashpirate&color=brightgreen">
 
-[![hashPirate's github activity graph](https://activity-graph.herokuapp.com/graph?username=hashPirate&theme=react-dark)](https://github.com/hashPirate)
+
