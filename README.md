@@ -1,5 +1,5 @@
 <h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm hashPirate.</h1>
-<h3 align="left">I am a highschool student aspiring to be a cybersecurity architect. </h3>
+<h3 align="left">I am a college student aspiring to have a future career in cybersecurity.. </h3>
 
 
 <a href="#suhailkakar-title">
