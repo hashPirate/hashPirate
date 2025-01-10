@@ -1,24 +1,27 @@
 # 💫 About Me:
 👋 **About Me**
+
 Hi, I'm a college student pursuing a Computer Science degree in Texas, aspiring to build a future in Cybersecurity and Software Engineering.
 
 🌟**Career Goals**
+
 I'm actively seeking an internship for Summer 2025 to further develop my technical skills and gain real-world experience in solving challenging problems.
 
 💻**Tech Stack**
+
 I enjoy working with languages like Java, Python, JavaScript, and C, and have a strong passion for building impactful software solutions and working with AI.
 
 🎯**Achievements**
 - Recently won the largest datathon in Texas with the strongest Machine Learning model for solving games of connections.
 - My project, Multiturbo, was incredibly dominant as the first publicly available customizable turbo for Minecraft and has made its users over $40,000.
-- I developed a proprietary coding algorithm in Java to reduce latency and set up cloud servers using Docker, AWS and MongoDB with 30+ paying subscribers.
+- I developed a proprietary coding algorithm in Java to reduce latency and set up cloud servers using Docker, AWS, and MongoDB with 30+ paying subscribers.
 - Copenheimer Masscan received over 5,000,000 views on YouTube and other social platforms when I co-developed and released it in high school.
 
 🚀**Current Endeavors**
 - Project Manager @ Deatz: Leading the development of a food deal app  with a chatbot tailored for college students.
 - Passion Project: Developing an agentic AI for Personal Finance Management to help individuals better track and optimize their financial decisions.
 
-🛠 **Experience & Interests**<br>I've been coding since a young age and have built several projects starting from high school and I have gained experience developing with teams. My journey has fueled my enthusiasm for innovative problem-solving and learning new technologies.
+🛠 **Experience & Interests**<br>I've been coding since a young age and have built several projects since high school and I have gained experience developing with teams. My journey has fueled my enthusiasm for innovative problem-solving and learning new technologies.
 
 
 # 💻 Tech Stack:
