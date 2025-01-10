@@ -5,7 +5,8 @@ Hi, I'm a college student pursuing a Computer Science degree in Texas, aspiring 
 🌟**Career Goals**
 I'm actively seeking an internship for Summer 2025 to further develop my technical skills and gain real-world experience in solving challenging problems.
 
-💻**Tech Stack**<br>I enjoy working with languages like Java, Python, JavaScript, and C, and have a strong passion for building impactful software solutions and working with AI.
+💻**Tech Stack**
+I enjoy working with languages like Java, Python, JavaScript, and C, and have a strong passion for building impactful software solutions and working with AI.
 
 🎯**Achievements**
 - Recently won the largest datathon in Texas with the strongest Machine Learning model for solving games of connections.
