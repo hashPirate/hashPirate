@@ -5,7 +5,7 @@ Hi, I'm a college student pursuing a Computer Science degree in Texas, aspiring 
 
 🌟**Career Goals**
 
-I'm actively seeking an internship for Summer 2025 to further develop my technical skills and gain real-world experience in solving challenging problems.
+I'm actively seeking an internship for Summer 2026 to further develop my technical skills and gain real-world experience in solving challenging problems.
 
 💻**Tech Stack**
 
