@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 **About Me**
 
-Hi, I'm a college student pursuing a Computer Science degree in Texas, aspiring to build a future in Cybersecurity and Software Engineering.
+Hi, I'm a college student pursuing a Computer Science degree in Texas, aspiring to build a future in Cybersecurity and Software Engineering. 
 
 🌟**Career Goals**
 
@@ -9,7 +9,7 @@ I'm actively seeking an internship for Summer 2026 to further develop my technic
 
 💻**Tech Stack**
 
-I enjoy working with languages like Java, Python, JavaScript, and C, and have a strong passion for building impactful software solutions and working with AI.
+I enjoy working with languages like Java, Python, JavaScript, and C, and have a strong passion for building impactful software solutions and working with AI. My computer backs all code files automatically by my Agent!
 
 🎯**Achievements**
 - Won the largest datathon in Texas twice. Once with the strongest Machine Learning model for solving games of connections, and once with a fullstack data analysis tool.
