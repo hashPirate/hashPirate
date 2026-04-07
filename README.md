@@ -12,7 +12,7 @@ I'm actively seeking an internship for Summer 2026 to further develop my technic
 I enjoy working with languages like Java, Python, JavaScript, and C, and have a strong passion for building impactful software solutions and working with AI.
 
 🎯**Achievements**
-- Recently won the largest datathon in Texas with the strongest Machine Learning model for solving games of connections.
+- Won the largest datathon in Texas twice. Once with the strongest Machine Learning model for solving games of connections, and once with a fullstack data analysis tool.
 - My project, Multiturbo, was incredibly dominant as the first publicly available customizable turbo for Minecraft and has made its users over $40,000.
 - I developed a proprietary coding algorithm in Java to reduce latency and set up cloud servers using Docker, AWS, and MongoDB with 30+ paying subscribers.
 - Copenheimer Masscan received over 5,000,000 views on YouTube and other social platforms when I co-developed and released it in high school.
