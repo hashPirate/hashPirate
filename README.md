@@ -1,4 +1,4 @@
-Building low-latency systems, database internals, and cloud infrastructure. CS @ Texas A&M (May 2027), previously @ Amazon and H-E-B. 
+Building low-latency systems, database internals, and cloud infrastructure. CS @ Texas A&M (May 2027), previously @ Amazon and HEB. 
 
 - **Focus:** Systems programming, database engines, networking.
 - **Open Source:** Contributor to `PartiQL`.
