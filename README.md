@@ -15,5 +15,3 @@ Building low-latency systems, database internals, and cloud infrastructure. CS @
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hashPirate/hashPirate/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/hashPirate/hashPirate/output/github-snake.svg" />
 </picture>
-
-<img src="https://komarev.com/ghpvc/?username=hashpirate&color=brightgreen">
